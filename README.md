@@ -1,6 +1,6 @@
 # Embedded C Projects — LPC2129
 
-A collection of mini projects built using **Embedded C** on the **LPC2148 ARM7 microcontroller**, developed and compiled in **Keil µVision IDE** and tested on real hardware.
+A collection of mini projects built using **Embedded C** on the **LPC2129 ARM7 microcontroller**, developed and compiled in **Keil µVision IDE** and tested on real hardware.
 
 ---
 
