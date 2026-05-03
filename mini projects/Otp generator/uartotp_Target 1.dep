@@ -1,14 +1,0 @@
-Dependencies for Project 'uartotp', Target 'Target 1': (DO NOT MODIFY !)
-F (.\Startup.s)(0x532C14EA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
-F (.\delay.c)(0x69DD258E)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
-I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
-I (header.h)(0x69DDD486)
-F (.\main.c)(0x69DDD527)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\main.o --omf_browse .\main.crf --depend .\main.d)
-I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
-I (header.h)(0x69DDD486)
-F (.\uart_config.c)(0x69DDD553)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\uart_config.o --omf_browse .\uart_config.crf --depend .\uart_config.d)
-I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
-I (header.h)(0x69DDD486)
-F (.\otp.c)(0x69DDD2C7)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\otp.o --omf_browse .\otp.crf --depend .\otp.d)
-I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
-I (header.h)(0x69DDD486)

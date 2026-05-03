@@ -1,27 +1,0 @@
-Dependencies for Project 'Conveyor', Target 'Target 1': (DO NOT MODIFY !)
-F (.\Startup.s)(0x532C14EA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
-F (.\lcdfns.c)(0x69E23181)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\lcdfns.o --omf_browse .\lcdfns.crf --depend .\lcdfns.d)
-I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
-I (lcd_define.h)(0x69E22257)
-I (delay.h)(0x69E22256)
-F (.\delay.c)(0x69E11EE2)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
-I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
-I (delay.h)(0x69E22256)
-F (.\uart_config.c)(0x69E221C7)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\uart_config.o --omf_browse .\uart_config.crf --depend .\uart_config.d)
-I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
-I (uart_define.h)(0x69E221C7)
-F (.\main.c)(0x69E5F913)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\main.o --omf_browse .\main.crf --depend .\main.d)
-I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
-I (delay.h)(0x69E22256)
-I (lcd_define.h)(0x69E22257)
-I (uart_define.h)(0x69E221C7)
-I (int_config.h)(0x69E22613)
-I (gsm.h)(0x69E22257)
-F (.\gsm.c)(0x69E2239D)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\gsm.o --omf_browse .\gsm.crf --depend .\gsm.d)
-I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
-I (gsm.h)(0x69E22257)
-I (uart_define.h)(0x69E221C7)
-I (delay.h)(0x69E22256)
-F (.\interrupt.c)(0x69E22644)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\interrupt.o --omf_browse .\interrupt.crf --depend .\interrupt.d)
-I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
-I (int_config.h)(0x69E22613)

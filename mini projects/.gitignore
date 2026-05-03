@@ -1,0 +1,30 @@
+# Keil uVision files
+*.uvopt
+*.uvproj
+*.uvgui*
+*.bak
+
+# Build output
+*.o
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# Debug / temp
+*.d
+*.crf
+*.dep
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE junk
+.vscode/
+.idea/
