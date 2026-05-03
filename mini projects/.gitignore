@@ -4,6 +4,10 @@
 *.uvgui*
 *.bak
 
+*.htm
+*.inp
+
+
 # Build output
 *.o
 *.axf
