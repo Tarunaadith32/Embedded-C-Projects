@@ -1,0 +1,11 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\interrupt.o"
+".\main.o"
+".\delay.o"
+".\lcdfns.o"
+".\timer.o"
+--strict --scatter ".\digital dice.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\digital dice.map" -o ".\digital dice.axf"

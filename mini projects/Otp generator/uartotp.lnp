@@ -1,0 +1,10 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\delay.o"
+".\main.o"
+".\uart_config.o"
+".\otp.o"
+--strict --scatter ".\uartotp.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\uartotp.map" -o .\uartotp.axf

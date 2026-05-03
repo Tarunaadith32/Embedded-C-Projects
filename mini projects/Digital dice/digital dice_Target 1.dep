@@ -1,0 +1,16 @@
+Dependencies for Project 'digital dice', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x532C14EA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\interrupt.c)(0x69DC9639)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\interrupt.o --omf_browse .\interrupt.crf --depend .\interrupt.d)
+I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (header.h)(0x69DB7EC2)
+F (.\main.c)(0x69DC9639)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (header.h)(0x69DB7EC2)
+F (.\delay.c)(0x69DB7CB2)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
+I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+F (.\lcdfns.c)(0x69DC95DB)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\lcdfns.o --omf_browse .\lcdfns.crf --depend .\lcdfns.d)
+I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (header.h)(0x69DB7EC2)
+F (.\timer.c)(0x69DC8B90)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\RV31\INC"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\CMSIS\Include"-I "C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips"-o .\timer.o --omf_browse .\timer.crf --depend .\timer.d)
+I (C:\Users\Tarun Aadith\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (header.h)(0x69DB7EC2)
