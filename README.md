@@ -1,6 +1,6 @@
 # Embedded C Projects — LPC2129
 
-A collection of mini projects built using **Embedded C** on the **LPC2129 ARM7 microcontroller**, developed and compiled in **Keil µVision IDE** and tested on real hardware.
+A collection of mini and major projects built using **Embedded C** on the **LPC2129 ARM7 microcontroller**, developed and compiled in **Keil µVision IDE** and tested on real hardware.
 
 ---
 
@@ -8,6 +8,7 @@ A collection of mini projects built using **Embedded C** on the **LPC2129 ARM7 m
 
 | Project | Description |
 |---|---|
+| [DriveSense — Real-Time Vehicle Parameter Monitoring](./DriveSense/) | **[Major Project]** Multi-ECU CAN bus system monitoring fuel level, temperature, obstacle distance, and ambient light — displayed on a central LCD |
 | [GSM Enabled Industrial Conveyor Object Counting System](./GSM%20enabled%20industrial%20conveyor%20object%20counting%20system/) | IR sensor-based object counter on a conveyor belt with GSM SMS alerts and motor control |
 | [Digital Dice](./Digital%20dice/) | Two-player digital dice using external interrupts and custom LCD dice face characters |
 | [OTP Generator](./Otp%20generator/) | UART-triggered 6-digit OTP generator using timer-based pseudo-randomness |
