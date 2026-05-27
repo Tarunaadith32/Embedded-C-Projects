@@ -30,6 +30,8 @@ This mimics the architecture used in real vehicles — where nodes like the Engi
 
 ---
 
+![Full Hardware Setup](images/Hardware.png)
+
 ## System Architecture
 
 ```
@@ -202,6 +204,9 @@ data = (msg.byte_a | (msg.byte_b << 8));
 │ LIGHT : ON         │  ← ON / OFF based on LDR
 └────────────────────┘
 ```
+
+![LCD Splash Screen](images/Lcd_dash.png)
+![Live LCD Output](images/Lcd_ON.png)
 
 ---
 
